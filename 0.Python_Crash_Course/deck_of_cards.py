@@ -62,6 +62,3 @@ class Deck:
             self.cards.append(card)
         else:
             print("Deck is full")
-
-
-lseek(fd, pos, how)
